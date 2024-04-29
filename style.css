@@ -1,0 +1,31 @@
+#Heading1 {
+background-color: aqua;
+padding: 50px;
+}
+.INTRODUCTION {
+    background-color: rgb(165, 163, 42);
+    padding:20px;
+    margin: 2%;
+}
+#one {
+    padding: 20px;
+    border:20px;
+    margin-bottom: 20px;
+    background-color: aqua;
+}
+#two {
+    padding: 20px;
+    border: 20px;
+    margin-bottom: 20px;
+    background-color: purple;
+}
+#three {
+    padding : 20px;
+    border: 20px;
+    background-color: blue;
+}
+.contact-information {
+    background-color: brown;
+    padding: 20px;
+    margin-top: 20px;
+} 
